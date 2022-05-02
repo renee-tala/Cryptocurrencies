@@ -15,5 +15,13 @@ In four steps, we will:
   - Visual the Cryptocurrencies results 
 
 ## Results
+- This is what the data looks like condensed into three Principal Component Analyses:
+![PCA](img/reduced_pca.png)
+
+- After 
+![elbowcurve](img/elbowcurve_kmeans.png)
+![clusteredtable](img/clustered_table.png)
+![3dplot](img/3d_plot.png)
+![scatterplot](img/scatterplot.png)
 
 ## Summary

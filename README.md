@@ -16,6 +16,7 @@ In four steps, we will:
 
 ## Results
 - This is what the data looks like reduced into three Principal Component Analyses:
+
 ![PCA](img/reduced_pca.png)
 
 - Afterwards, we cluster using K-means and display the data as an Elbow Curve: 

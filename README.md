@@ -15,13 +15,18 @@ In four steps, we will:
   - Visual the Cryptocurrencies results 
 
 ## Results
-- This is what the data looks like condensed into three Principal Component Analyses:
+- This is what the data looks like reduced into three Principal Component Analyses:
 ![PCA](img/reduced_pca.png)
 
-- After 
+- Afterwards, we cluster using K-means and display the data as an Elbow Curve: 
 ![elbowcurve](img/elbowcurve_kmeans.png)
+
+- Here is the table of tradable cryptocurrencies:
 ![clusteredtable](img/clustered_table.png)
+
+- Here are the tradable cryptocurrencies as a 3d plot:
 ![3dplot](img/3d_plot.png)
+
+- After scaling the data, we can view it as a scatterplot:
 ![scatterplot](img/scatterplot.png)
 
-## Summary
